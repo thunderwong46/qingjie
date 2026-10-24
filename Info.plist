@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>轻截</string>
+	<key>CFBundleExecutable</key>
+	<string>LightShot</string>
+	<key>CFBundleIconFile</key>
+	<string>LightShot</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.thunder.lightshot</string>
+	<key>CFBundleName</key>
+	<string>轻截</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2</string>
+	<key>CFBundleVersion</key>
+	<string>4</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>仅在你按下截图快捷键时读取屏幕，用于框选、标注和复制截图。</string>
+</dict>
+</plist>

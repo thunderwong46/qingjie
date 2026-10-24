@@ -1,0 +1,17 @@
+.DS_Store
+.build/
+build/
+*.app/
+__pycache__/
+*.pyc
+.env
+.env.*
+signing.json
+keychain-password
+*.keychain*
+*.p12
+*.pfx
+*.pem
+*.key
+*.cer
+*.mobileprovision
